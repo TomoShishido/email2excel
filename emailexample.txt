@@ -1,0 +1,36 @@
+English email example (sent by AWS SES)
+
+Sender: shishid@saaipf.com
+Subject:Thank you for your purchase of bFaaaP Switch
+
+Body:
+Dear User,
+	Thank you for your purchase of bFaaaP Switch. The following information has been sent.
+         Name: User1,
+         Email: user1@example1.com,
+         Age: 53,
+         Sex: male,
+	  Address: 123 New York, NY,
+         Zipcode: 10021,
+         Country: USA,
+         Message: Thank you,
+
+  You will receive a confirmation email later.
+
+
+Japanese email example (sent by AWS SES)
+Sender: shishid@saaipf.com
+Subject:bFaaaP Switch申し込み受付【申し込み受付メール】
+
+Body:
+以下の住所氏名等を送信しました。
+         名前: User1,
+         Email: user1@example1.com,
+         年齢: 45,
+         性別: 0,
+         郵便番号: 192-0392,
+         都道府県と市区: 東京都八王子市,
+         それ以下の住所: 堀之内1432-1,
+         メッセージ: ①で特別価格希望,
+
+  bFaaaP Switchの代金支払いと発送手続きについて14日営業日以内程度でご案内しますのでお待ちください。
